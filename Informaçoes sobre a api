@@ -1,0 +1,15 @@
+
+#  1 Objetivo - Criar uma API que disponibiliza a consulta, criação, exclusao de livros
+
+# 2 URL bbase - localhost
+
+# Endpoints:
+#            localhost/livros (GET)
+#            localhost/livros (POST)
+#            localhost/livros/id (GET)
+#            localhost/livros/id (PUT)
+#            localhost/livros/id (DELETE)
+
+# 4 Quais recursos - Livros
+
+# usando o flask - pip install flask
